@@ -1,0 +1,8 @@
+C:\Users\Nadia Terranova\Documents\Visual Studio 2010\Projects\Costos\Costos\bin\Costos.dll
+C:\Users\Nadia Terranova\Documents\Visual Studio 2010\Projects\Costos\Costos\bin\Costos.pdb
+C:\Users\Nadia Terranova\Documents\Visual Studio 2010\Projects\Costos\Costos\obj\Debug\Costos.dll
+C:\Users\Nadia Terranova\Documents\Visual Studio 2010\Projects\Costos\Costos\obj\Debug\Costos.pdb
+D:\Costos\Costos\bin\Costos.dll
+D:\Costos\Costos\bin\Costos.pdb
+D:\Costos\Costos\obj\Debug\Costos.dll
+D:\Costos\Costos\obj\Debug\Costos.pdb
