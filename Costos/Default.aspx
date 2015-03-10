@@ -458,6 +458,8 @@
     <p>
         -W. Gustavo Cevallos
     </p>
+    <p>
+        -Stefano Llanos</p>
 <p>
         -Mario Asansa
     </p>
