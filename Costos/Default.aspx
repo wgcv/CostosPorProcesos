@@ -474,9 +474,9 @@
                 &nbsp;</td>
             <td class="style5">
                 <asp:Button ID="Button1" runat="server" Height="51px" onclick="Button1_Click" 
-            Text="Siguiente proceso" />
-                <asp:Button ID="Button3" runat="server" Height="52px" onclick="Button3_Click" 
-                    Text="Reiniciar" Width="78px" />
+            Text="Siguiente proceso" Width="150px" />
+                <asp:Button ID="Button3" runat="server" Height="51px" onclick="Button3_Click" 
+                    Text="Reiniciar" Width="150px" />
             </td>
         </tr>
 </table>
