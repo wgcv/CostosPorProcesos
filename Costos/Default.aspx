@@ -475,6 +475,8 @@
             <td class="style5">
                 <asp:Button ID="Button1" runat="server" Height="51px" onclick="Button1_Click" 
             Text="Siguiente proceso" />
+                <asp:Button ID="Button3" runat="server" Height="52px" onclick="Button3_Click" 
+                    Text="Reiniciar" Width="78px" />
             </td>
         </tr>
 </table>

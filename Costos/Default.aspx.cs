@@ -154,6 +154,14 @@ namespace Costos
 
         }
 
+        protected void Button3_Click(object sender, EventArgs e)
+        {
+            Session.Remove("con");
+            Session.Remove("procesos");
+            Response.Redirect("About.aspx");
+               
+        }
+
 
 
 
