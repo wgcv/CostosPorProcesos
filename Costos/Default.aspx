@@ -144,7 +144,7 @@
             <tr>
                 <td>
                     <asp:Label ID="lbltransferidas" runat="server" 
-            Font-Bold="True" Text="Unidades transferias al siguiente proceso"></asp:Label>
+            Font-Bold="True" Text="Unidades transferidas al siguiente proceso"></asp:Label>
                 </td>
                 <td>
         <asp:TextBox ID="txtunidadestransferidas" runat="server" AutoPostBack="True" 
