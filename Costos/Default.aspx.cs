@@ -144,6 +144,16 @@ namespace Costos
             Calcula_proceso();
         }
 
+        protected void Button2_Click(object sender, EventArgs e)
+        {
+            double ph = Convert.ToDouble(precioxhora.Text);
+            double cm = Convert.ToDouble(cminutos.Text);
+            double t = (ph * cm) / 60;
+            txtmanoobra.Text = t.ToString();
+
+
+        }
+
 
 
 

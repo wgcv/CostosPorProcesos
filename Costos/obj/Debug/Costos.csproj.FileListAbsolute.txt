@@ -6,3 +6,7 @@ D:\Costos\Costos\bin\Costos.dll
 D:\Costos\Costos\bin\Costos.pdb
 D:\Costos\Costos\obj\Debug\Costos.dll
 D:\Costos\Costos\obj\Debug\Costos.pdb
+C:\Users\Gustavo\Documents\GitHub\CostosPorProcesos\Costos\bin\Costos.dll
+C:\Users\Gustavo\Documents\GitHub\CostosPorProcesos\Costos\bin\Costos.pdb
+C:\Users\Gustavo\Documents\GitHub\CostosPorProcesos\Costos\obj\Debug\Costos.dll
+C:\Users\Gustavo\Documents\GitHub\CostosPorProcesos\Costos\obj\Debug\Costos.pdb

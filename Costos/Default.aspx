@@ -46,6 +46,10 @@
             height: 29px;
             width: 338px;
         }
+        .style11
+        {
+            height: 26px;
+        }
     </style>
 </asp:Content>
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
@@ -99,13 +103,32 @@
             </tr>
             <tr>
                 <td>
-        <asp:Label ID="lblmanoobra" runat="server" Font-Bold="True" Text="Mano de obra"></asp:Label>
+        <asp:Label ID="lblmanoobra0" runat="server" Font-Bold="True" Text="Valor mano obra"></asp:Label>
                 </td>
                 <td>
-        <asp:TextBox ID="txtmanoobra" runat="server" Width="85px">0</asp:TextBox>
+                    <asp:Label ID="Label3" runat="server" Text="Valor de la hora"></asp:Label>
+                    <br />
+                    <asp:TextBox ID="precioxhora" runat="server"></asp:TextBox>
+                    <br />
+                    <asp:Label ID="Label4" runat="server" Text="Tiempo necesario"></asp:Label>
+                    <br />
+                    <asp:TextBox ID="cminutos" runat="server"></asp:TextBox>
+                    <br />
+                    <asp:Button ID="Button2" runat="server" onclick="Button2_Click" 
+                        style="height: 26px" Text="calcular" />
                 </td>
                 <td>
                     &nbsp;</td>
+            </tr>
+            <tr>
+                <td class="style11">
+        <asp:Label ID="lblmanoobra" runat="server" Font-Bold="True" Text="Mano de obra"></asp:Label>
+                </td>
+                <td class="style11">
+        <asp:TextBox ID="txtmanoobra" runat="server" Width="85px">0</asp:TextBox>
+                </td>
+                <td class="style11">
+                    </td>
             </tr>
             <tr>
                 <td>
